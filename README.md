@@ -1,16 +1,16 @@
-Image and Video Generator using AI
+# Image and Video Generator using AI
 
 Project Overview
 This project implements an AI-based Image and Video Generator using Python and deep learning techniques. The application generates images and short videos based on user input, demonstrating the practical use of Generative AI models for multimedia content creation. This project is suitable for academic use, portfolios, and showcasing hands-on experience in AI and machine learning.
 
-Features
+## Features
 - Generates images from text prompts
 - Generates videos from images or text input
 - Uses pre-trained generative AI models
 - Simple and interactive Jupyter Notebook implementation
 - Easy to understand and extend
 
-Technologies Used
+## Technologies Used
 - Python
 - Jupyter Notebook
 - Generative AI / Deep Learning
